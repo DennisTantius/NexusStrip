@@ -1,18 +1,18 @@
 # NexusStrip
 
 <p align="center">
-    <img src="images/NexusStripLogo.png" alt="image" width="80%" />
-    <br />
-    <img src="https://img.shields.io/badge/MCU-ESP32--S3-222222?style=flat-square" alt="MCU: ESP32-S3" />
-    <img src="https://img.shields.io/badge/OS-ESP--IDF%20%2F%20FreeRTOS-CC2927?style=flat-square" alt="OS: ESP-IDF / FreeRTOS" />
-    <img src="https://img.shields.io/badge/Language-C%20%2F%20C%2B%2B-00599C?    style=flat-square" alt="Language: C/C++" />
-    <img src="https://img.shields.io/badge/CAD-KiCad-314CB6?style=flat-square"     alt="CAD: KiCad" />
-    <br />
-    <img src="https://img.shields.io/badge/Hardware-PCB%20Design-2E8B57?    style=flat-square" alt="Hardware: PCB Design" />
-    <img src="https://img.shields.io/badge/Control-GPIO%20%2F%20Relay-8A2BE2?    style=flat-square" alt="Control: GPIO / Relay" />
-    <img src="https://img.shields.io/badge/Domain-Power%20Management-C1292E?    style=flat-square" alt="Domain: Power Management" />
-    <img src="https://img.shields.io/badge/Version-v0.0.9-E9DF00?style=flat-square"     alt="Version: v0.0.9" />
-    <img src="https://img.shields.io/badge/Status-Prototype-orange?style=flat-square" alt="Status: Prototype" />
+  <img src="images/NexusStripLogo.png" alt="image" width="80%" />
+  <br />
+  <img src="https://img.shields.io/static/v1?label=MCU&amp;message=ESP32-S3&amp;color=222222&amp;style=flat-square" alt="MCU: ESP32-S3" />
+  <img src="https://img.shields.io/static/v1?label=OS&amp;message=ESP-IDF%20%2F%20FreeRTOS&amp;color=CC2927&amp;style=flat-square" alt="OS: ESP-IDF / FreeRTOS" />
+  <img src="https://img.shields.io/static/v1?label=Language&amp;message=C%20%2F%20C%2B%2B&amp;color=00599C&amp;style=flat-square" alt="Language: C/C++" />
+  <img src="https://img.shields.io/static/v1?label=CAD&amp;message=KiCad&amp;color=314CB6&amp;style=flat-square" alt="CAD: KiCad" />
+  <br />
+  <img src="https://img.shields.io/static/v1?label=Hardware&amp;message=PCB%20Design&amp;color=2E8B57&amp;style=flat-square" alt="Hardware: PCB Design" />
+  <img src="https://img.shields.io/static/v1?label=Control&amp;message=GPIO%20%2F%20Relay&amp;color=8A2BE2&amp;style=flat-square" alt="Control: GPIO / Relay" />
+  <img src="https://img.shields.io/static/v1?label=Domain&amp;message=Power%20Management&amp;color=C1292E&amp;style=flat-square" alt="Domain: Power Management" />
+  <img src="https://img.shields.io/static/v1?label=Version&amp;message=v0.0.9&amp;color=E9DF00&amp;style=flat-square" alt="Version: v0.0.9" />
+  <img src="https://img.shields.io/static/v1?label=Status&amp;message=Prototype&amp;color=orange&amp;style=flat-square" alt="Status: Prototype" />
 </p>
 
 <h3 align="center">
