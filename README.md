@@ -21,7 +21,7 @@
 
 ## Overview
 
-Nexus Strip is a modular, cloud free, smart desktop power management unit designed to operate either as a conventional power strip or as an MCU-controlled switching system.
+This GitHub repository is just for documentation purposes and does not contain schematics, code or any other type of implementation. Nexus Strip is a modular, cloud free, smart desktop power management unit designed to operate either as a conventional power strip or as an MCU-controlled switching system.
 
 The project combines embedded firmware, relay control, PCB design and a modular control concept. The long-term goal is to support socket-level switching, power measurement, local display output, wireless communication and a local web or terminal-based user interface.
 
@@ -90,3 +90,19 @@ This repository documents the development process from concept to prototype. The
 <p align="center">
     <img src="images/NexusStripSystemArchitecture.png" alt="image" width="80%" />
 </p>
+
+This section describes the intended system structure of Nexus Strip. It is not a certified electrical design, not a production-ready schematic, and not a construction guide for mains-voltage hardware.
+
+Nexus Strip is structured as a modular desktop power management system with two clearly separated domains:
+
+1. **High-voltage power path**  
+   Handles mains input, protection, relay-based switching and socket outputs.
+
+2. **Low-voltage control path**  
+   Handles manual inputs, ESP32-S3 control logic, relay driving, display output, wireless communication and local software interfaces.
+
+The architecture is designed so that the device can evolve incrementally. The first functional milestone focuses on manual and modular socket switching. Later versions extend the same base architecture with electrical measurement, display integration, wireless communication and a local webserver or terminal-based interface.
+
+## Software Architecture
+
+## Hardware Architecture
